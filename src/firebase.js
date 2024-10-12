@@ -4,7 +4,7 @@ import {getAuth, createUserWithEmailAndPassword, signInWithEmailAndPassword} fro
 import {getFirestore, setDoc, doc} from "https://www.gstatic.com/firebasejs/9.1.3/firebase-firestore.js"
 
 const firebaseConfig = {
-    apiKey: "AIzaSyCgPxJyhMUZ0MgirfUagBuciHvauJrwEaM",
+    apiKey: "APIKEY",
     authDomain: "software-engineering-pro-d2628.firebaseapp.com",
     databaseURL: "https://software-engineering-pro-d2628-default-rtdb.asia-southeast1.firebasedatabase.app",
     projectId: "software-engineering-pro-d2628",
